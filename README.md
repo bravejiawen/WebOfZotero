@@ -16,3 +16,4 @@
 - 其他## 参考文献## Changelog
 ```
 
+- [A Contracorriente: una revista de estudios latinoamericanos](https://acontracorriente.chass.ncsu.edu/index.php/acontracorriente)拉丁美洲研究杂志；语言：西班牙语、英语；关于拉丁美洲的研究的开放期刊系统。#期刊 #拉丁美洲
