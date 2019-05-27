@@ -26,4 +26,11 @@
 
 - [ACM Digital Library](https://dl.acm.org/)美国计算机学会全文数据库；英语；
 - 简介：ACM创立于1947年，于1999年起开始提供电子数据库服务，收录了所有ACM出版物，包括期刊，会议录，技术杂志，通讯和书籍。需相关单位购买
-。
+
+- [ACS Publications: Chemistry journals, books, and references published by the American Chemical Society](https://pubs.acs.org/)美国化学学会期刊，英语。优质化学期刊、论文，免费获取50篇ACS期刊文章 #期刊 #论文 #化学
+
+- [AEA Web:American Economic Association](https://www.aeaweb.org/)美国经济协会。AEA成立于1885年，是一个非营利，无党派的学术协会，致力于讨论和出版经济学研究。#期刊 #经济
+
+- [AIP:Scitation - Home](https://www.scitation.org/)Scitation是物理科学领域最具影响力的新闻，评论，分析和研究的发源地。#期刊 #论文
+
+- [AMS Journals](https://journals.ametsoc.org/)
