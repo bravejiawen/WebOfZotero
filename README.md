@@ -68,4 +68,20 @@
 - [ADB Home - Australian Dictionary of Biography](http://adb.anu.edu.au/)澳大利亚传记词典。出版澳大利亚历史上杰出人物的权威传记的文章。
 - [British and Irish Legal Information Institute](http://www.bailii.org/)法律研究数据库。英国和爱尔兰法律信息研究所。主页附有世界法律资源清单。
 - [bbc](http://www.bbc.co.uk/)英国广播公司，需科学上网
-
+- [BOCC](https://www.bromsgrovecycling.cc/wordpress/)Bromsgrove Olympique Cycling Club
+- [百度学术 - 保持学习的态度](http://xueshu.baidu.com/)百度学术。海量中英文文献检索的学术资源搜索平台。
+- [Beobachter：News & Infos vom sozialsten Netzwerk der Schweiz - Beobachter](https://www.beobachter.ch/)《观察家》。瑞士最具社交网络的新闻和信息。德语。
+- [Bezneng Gajit：Безне? г??ит (татарча газета Татарстан матбугаты Казан)](https://beznen.ru/)塔塔尔语，“鞑靼报纸在喀山”，喀山，俄罗斯联邦鞑靼自治共和国首府。
+- [Biblio.com | Used Books and Rare Books from Antiquarian Booksellers](https://www.biblio.com/)提供稀有和绝版书籍，买卖。英语。
+- [Bibliotheque et Archives Nationale du Quebec (Pistard)：Accueil | BAnQ](http://www.banq.qc.ca/accueil/)加拿大魁北克图书馆和国家档案馆。[Recherche Simple - Bibliothèque et Archives nationales du Québec](http://pistard.banq.qc.ca/unite_chercheurs/recherche_simple)搜索工具
+- [BioMed Central：BMC, research in progress](https://www.biomedcentral.com/)BioMed Central是一家独立出版社，致力于提供经过同行评审的生化研究的公开取阅途径（Open Access）。已在生物医学领域拓展到物理科学，数学和工程学科领域。
+- [BioOne：Search more than 200 leading titles in the biological, ecological, and environmental sciences.](https://bioone.org/)生物科学期刊数据库。需订阅。
+- [Blaetter：Bl?tter für deutsche und internationale Politik | Eine Insel der Vernunft in einem Meer von Unsinn.](https://www.blaetter.de/)德语世界最大的政治科学月刊。德语。
+- Blogspot是Pyra Labs公司创建的博客网站，提供网志书写和发布服务等功能，是全球最大、最为知名的博客服务提供商。目前其已经被Google公司收购。需梯子。
+- [bloomberg](http://bloomberg.com/)全球商业、金融信息和财经资讯的领先提供商。需梯子。
+- [Boston Review | Politics | Philosophy | Literature | Ideas](http://www.bostonreview.net/)波士顿评论。波士顿评论是一个政治和文学论坛，一个讨论思想和文化的公共空间。独立和非营利，
+- [Bracero History Archive | Home](http://braceroarchive.org/)40年前，Bracero计划将数百万墨西哥客工带到了美国。关于这段历史的档案资料。
+- [Brill](https://brill.com/)人文、社会科学和国际法逾三个世纪的学术出版物。“我们坚信人文，社会科学和国际法是解决当今全球挑战的关键学术领域。”
+- [Bryn Mawr Classical Review (BMCR)](http://bmcr.brynmawr.edu/)）（ISSN 1055-7660）发表了关于古典研究（包括考古学）领域当前学术研究的及时开放，同行评审的评论。
+- [Bundesgesetzblatt：Das Bundesgesetzblatt (BGBl.) - Bundesanzeiger Verlag](https://www.bgbl.de/)联邦法律公报。
+- [India News, Latest News Headlines, BSE live, NSE Live, Stock Markets Live, Financial News, Business News & Market Analysis on Indian Economy - Business Standard](https://www.business-standard.com/)《商业标准日报》（Business Standard）是商业标准有限责任公司的在线平台，主要出版印度商业新闻。Business Standard堪称领先的印度商业日报。Business Standard网站每月的独立用户达到一千五百多万，是印度独立新闻报纸领域流量最高的网站。
