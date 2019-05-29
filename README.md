@@ -34,3 +34,38 @@
 - [AIP:Scitation - Home](https://www.scitation.org/)Scitation是物理科学领域最具影响力的新闻，评论，分析和研究的发源地。#期刊 #论文
 
 - [AMS Journals](https://journals.ametsoc.org/)
+- [AMS:American Mathematical Society :: Homepage](https://www.ams.org/home/page)美国数学学会网，AMS MathSciNet提供数学出版物、杂志检索，需订阅方可使用。
+- [APA PsycNET Login](https://my.apa.org/apa/idm/login.seam?ERIGHTS_TARGET=https%3A%2F%2Fpsycnet.apa.org%2F)美国心理学会，可免费搜索，需购买订阅方可下载。
+- [APN.ru:АПН - Агентство Политических Новостей](https://www.apn.ru/)俄政治新闻社，俄语
+- [APS-Physics：Physics - spotlighting exceptional research](https://physics.aps.org/)美国物理学会，出版物、会议活动等等。
+- [The ARTFL Encyclopédie | ARTFL Encyclopédie](http://encyclopedie.uchicago.edu/)法国百科全书、语料库，从1957的法语词典，发展为囊括艺术、科学等各类法语语料的百科全书。法语。
+- [ARTnews - The leading source of art coverage since 1902.ARTnews](http://www.artnews.com/)ARTnews成立于1902年，是世界上历史最悠久，流传最广的艺术杂志。每年出版四次，报道影响国际艺术世界的艺术，人物，问题，趋势和事件。
+- [Artstor：Home - Artstor](https://www.artstor.org/)非常专业的一个英文图片库：图片海量和高清、学术性强、功能强大。其收录世界一流博物馆、机构及个人的140多万张艺术、建筑、人文和科学领域的图 片。提供非常人性化和开放的漫游服务，机构用户在注册后，有120天的远程访问权，到期后只需在校园IP范围内重新登录，即可继续在校外使用4个月。
+  顺便赞扬该数字库另一个非常具有开放获取思想的做法，很多高清图片提供免费下载，可直接用于学术出版（可以通过查找学术出版影像的IAP图片）。
+- [ASCE Library:American Society of Civil Engineers | Civil Engineering and its Practical Applications](https://ascelibrary.org/)美国土木工程协会，出版土木工程杂志。ASCE图书馆是世界上最大的土木工程研究和实用出版物全文数据库。它提供了超过145,000篇技术和专业论文的前所未有的在线访问--150万页内容。每年增加7,000多篇论文。
+- [ASCO Meeting Library | Meeting Library](https://meetinglibrary.asco.org/)美国临床肿瘤学会会议图书馆，美国临床肿瘤学会American Society of Clinical Oncology(ASCO)成立于1964年，是全球领先的肿瘤专业学术组织，旨是预防癌症及改善癌症服务。
+- [Ab Imperio](https://abimperio.net/)东亚和欧亚研究杂志，英语、俄罗斯语。后苏联地区中的新帝国史与民族主义研究。
+- [AccessMedicine – Internal Medicine Clinical Resource](https://accessmedicine.mhmedical.com/)AccessMedicine是隶属于McGraw-Hill Education出版集团旗下的在线医学产品，为医学研究者和工作者提供了内容权威、获取便捷的医学资源。
+  AccessMedicine平台中目前包括：86本医学著作、35000多张图片和图表、200多个医疗操作视频及病例会诊讲座、完整药物数据库、1900多道USMLE美国职业医师考试真题、 1800多道Lange朗氏互动式问答题、800多道医学专科考试复习题、60多种常见疾病实践指南、1000多种疾病的实验室鉴别诊断、近100个关于疾病和治疗的病患教育文章等宝贵资源。
+- [Agencia del ISBN](https://www.agenciaisbn.es/web/index.php)国际标准书号，西班牙语.
+- [Air University Press](https://www.airuniversity.af.edu/AUPress/)美国空军大学期刊。可免费获取。
+- [Airiti Library华艺在线图书馆](http://www.airitilibrary.com/home/index/)airitilibrary台湾学术文献数据库。内容涵盖人文學、基础与应用科学、医药卫生、生物农学、工程學、社会科学等六大领域。类似中国知网。
+- [alexanderstreet press](https://alexanderstreet.com/)流媒体视频，音频和文本库数据库的发布者，促进跨学科的研究，教学和学习，包括音乐，咨询，历史，商业等等。 亚历山大街致力于向学术界提供高品质的数字化典藏。自成立以来，每年不断推出高质量的从未出版过的学术资源。人类学、咨询和治疗、音乐与舞蹈、新闻与时事、科学与医学、社会科学.
+- [Home - allAfrica.com](https://allafrica.com/)非洲及其周边地区新闻和信息。每天从140多个新闻机构和500多个其他机构和个人发布约700份报告，代表各个主题的各种立场。英语、法语。
+- [Alternet.org](https://www.alternet.org/)独立新闻杂志和在线社区。目标是鼓励在环境，人权和公民自由，社会公正，媒体，医疗保健问题等方面采取行动和宣传。
+- [Amazon.com.au: Shop online for Electronics, Apparel, Toys, Books, DVDs & more](https://www.amazon.com.au/)亚马逊电子商务
+- [Aluka:Struggles for Freedom on JSTOR](https://www.aluka.org/struggles)南非独立自由运动斗争。通过数千个文件和其他主要来源的数字化收集，体验南部非洲国家的惊人的独立运动。
+- [American Institute of Aeronautics and Astronautics：Home | AIAA Aerospace Research Central](https://arc.aiaa.org/)美国航空航天研究机构。期刊、图书、会议论文、标准等。
+- [The American Prospect](https://prospect.org/)美国前景。独立新闻。
+- [Ancestry? | Genealogy, Family Trees & Family History Records](https://www.ancestry.com.au/)全球最大家谱网站和最大的家族历史在线社区，拥有海量的家谱数据库存贮量。用户可以通过Ancestry.com来了解他们是谁、他们的祖先从哪里来以及他们的祖先有过怎样的光辉事迹。
+- [Annual Reviews](https://www.annualreviews.org/)综述数据库。Annual Reviews通过邀请各学科领域最权威、顶尖的科学家撰写综述，来回顾本学科最前沿的进展，为科学研究提供方向性指导。目前共在线提供46个学科的41种年度综述。
+- [Dedikált, aláírt kiadványok - Erotika használt k?nyvek - Antikvarium.hu](https://www.antikvarium.hu/temakor/erotika-11895)匈牙利最大的古董书籍。
+- [Archeion](https://www.archeion.ca/)安大略省各组织持有的档案信息。包括该省历史上各个时期的企业，个人，家庭和组织的记录。描述的档案包括照片，日记，分钟簿，教堂登记册和市政记录。
+- [Archiv fuer Sozialgeschichte:Das Archiv für Sozialgeschichte - AFS](http://library.fes.de/jportal/content/below/index.xml)社会史自1961年以来每年出版档案是大的，国际公认的科学历史期刊之一。社会史的档案是专门为最近德国，欧洲和北美的社会历史。每卷包含在一个特定的主题框架的文章和全面的研究报告，并集体审查史学的当前趋势。
+- [Archive Ouverte en Sciences de l'Information et de la Communication (AOSIC)-@rchiveSIC -](https://archivesic.ccsd.cnrs.fr/)法语（我也看不懂是干什么的网站。。）看起来像法语版的知网，包含各类实验室、期刊、论文，可检索。
+- [Atlanta Journal Constitution-AJC.com: Atlanta News Now](https://www.ajc.com/)亚特兰大宪法报。主要部分通常包括佐治亚州新闻，国家新闻，国际新闻和商业新闻。
+- [AustLII and NZLII：New Zealand Legal Information Institute (NZLII)](http://nzlii.austlii.edu.au/) [Australasian Legal Information Institute](http://www.austlii.edu.au/)法律研究数据库。新西兰法律信息研究所/澳大利亚法律信息研究所。
+- [ADB Home - Australian Dictionary of Biography](http://adb.anu.edu.au/)澳大利亚传记词典。出版澳大利亚历史上杰出人物的权威传记的文章。
+- [British and Irish Legal Information Institute](http://www.bailii.org/)法律研究数据库。英国和爱尔兰法律信息研究所。主页附有世界法律资源清单。
+- [bbc](http://www.bbc.co.uk/)英国广播公司，需科学上网
+
