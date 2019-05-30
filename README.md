@@ -2,6 +2,7 @@
 ~收集zotero translators 里提供的优质信息源，进行分类。（开仓库慢慢填坑）
 
 ~原始资源见[Zotero Translators](https://github.com/bravejiawen/translators)
+~某同学整理的translators网站，[Zotero Translator 高质量信息源](https://www.notion.so/Zotero-Translator-dce4d45d76c34dd58847489a6df5d98a)
 
 整理模板
 
