@@ -85,9 +85,13 @@
 - [Brill](https://brill.com/)人文、社会科学和国际法逾三个世纪的学术出版物。“我们坚信人文，社会科学和国际法是解决当今全球挑战的关键学术领域。”
 - [Bryn Mawr Classical Review (BMCR)](http://bmcr.brynmawr.edu/)）（ISSN 1055-7660）发表了关于古典研究（包括考古学）领域当前学术研究的及时开放，同行评审的评论。
 - [Bundesgesetzblatt：Das Bundesgesetzblatt (BGBl.) - Bundesanzeiger Verlag](https://www.bgbl.de/)联邦法律公报。
-- [India News, Latest News Headlines, BSE live, NSE Live, Stock Markets Live, Financial News, Business News & Market Analysis on Indian Economy - Business Standard](https://www.business-standard.com/)《商业标准日报》（Business Standard）是商业标准有限责任公司的在线平台，主要出版印度商业新闻。Business Standard堪称领先的印度商业日报。Business Standard网站每月的独立用户达到一千五百多万，是印度独立新闻报纸领域流量最高的网站。
-- [CABI:CAB Abstracts-CAB Direct](https://www.cabdirect.org/) CABI(农业和生物科学国际中心)的在线数据库平台，提供对所有CABI数据库订阅的单点访问。CABI主要关注发展中国家的农业和环境问题。需机构权限。M.V1.56B
+- [ Business Standard](https://www.business-standard.com/)《商业标准日报》（Business Standard）是商业标准有限责任公司的在线平台，主要出版印度商业新闻。Business Standard堪称领先的印度商业日报。Business Standard网站每月的独立用户达到一千五百多万，是印度独立新闻报纸领域流量最高的网站。
+- [CABI:CAB Abstracts-CAB Direct](https://www.cabdirect.org/) CABI(农业和生物科学国际中心)的在线数据库平台，提供对所有CABI数据库订阅的单点访问。CABI主要关注发展中国家的农业和环境问题。需机构权限。22.8K
 - [Cairn.info：Revues et ouvrages en sciences humaines et sociales | Cairn.info](https://www.cairn.info/)人类的社会科学出版物。需机构登录。法语。
-- [Home | Cambridge University Press](https://www.cambridge.org/)剑桥大学出版社。为世界最大的学术与教育出版机构之一，科学技术类，人文社科，医学，工程技术类，人文社科最多。包含学术、剑桥英语（为所有年龄段的英语学习者提供市场领先的课程的补充材料）、教育、支持软件等栏目。看新闻，新航道与剑桥大学出版社签署战略合作协议haha
+- [ Cambridge University Press](https://www.cambridge.org/)剑桥大学出版社。为世界最大的学术与教育出版机构之一，科学技术类，人文社科，医学，工程技术类，人文社科最多。包含学术、剑桥英语（为所有年龄段的英语学习者提供市场领先的课程的补充材料）、教育、支持软件等栏目。看新闻，新航道与剑桥大学出版社签署战略合作协议haha
 - [CanLII:Canadian Legal Information Institute | CanLII](https://www.canlii.org/en/)加拿大法律研究数据库
-
+- [Cell Press](https://www.cell.com/)Cell Press 是爱思唯尔旗下顶尖的生命科学研究出版社，共出版12种高引用率的研究期刊。 科学界将这些期刊视为必读期刊。《Cell》是与《Science》、《Nature》齐名的重要国际性刊物。160K
+- [Chadwyck Literature Online](http://lion.chadwyck.co.uk)查德威克在线文学.收录了大量的全文内容，包括36万部从八世纪以来的诗歌、散文、小说与戏剧等英语文学著作；312种精选的全文文学期刊；以及传记与作家作品集、语言学参考工具书、词典、英美文学评论与书目信息等。1.38K
+- [The Champlain Society](https://champlainsociety.utpjournals.press/)加拿大历史记录文献。1.14k
+- [Christian Science Monitor](http://www.csmonitor.com/)基督教科学箴言报. 45K
+- [ Chronicling America ](https://chroniclingamerica.loc.gov/about/api/)美国历史报纸和精选数字化报纸数据库。提供API。13.1k
