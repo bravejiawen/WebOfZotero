@@ -95,3 +95,4 @@
 - [The Champlain Society](https://champlainsociety.utpjournals.press/)加拿大历史记录文献。1.14k
 - [Christian Science Monitor](http://www.csmonitor.com/)基督教科学箴言报. 45K
 - [ Chronicling America ](https://chroniclingamerica.loc.gov/about/api/)美国历史报纸和精选数字化报纸数据库。提供API。13.1k
+- [CiNii- National Institute of Informatics](https://ci.nii.ac.jp/)CiNii（Scholarly and Academic Information Navigator，读作“sigh-knee”）是一种数据库服务，可以搜索日语书籍、期刊和论文的学术信息。
