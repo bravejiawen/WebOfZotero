@@ -97,3 +97,5 @@
 - [ Chronicling America ](https://chroniclingamerica.loc.gov/about/api/)美国历史报纸和精选数字化报纸数据库。提供API。13.1k
 - [CiNii- National Institute of Informatics](https://ci.nii.ac.jp/)CiNii（Scholarly and Academic Information Navigator，读作“sigh-knee”）是一种数据库服务，可以搜索日语书籍、期刊和论文的学术信息。
 - [CiteSeerX](https://csxstatic.ist.psu.edu/home)CiteSeerx 是一个科学文献数字图书馆和搜索引擎，主要集中在计算机和信息科学领域。不是仅仅是一个数字图书馆，为其他数字图书馆提供资源，如算法，数据，元数据，服务，技术和软件，有非常强大的功能，包括自主引文索引，自动元数据提取等，日流量200k.
+- [CNKI](https://www.cnki.net/)中国知网
+- [Code4Lib](https://code4lib.org/)We are developers and technologists for libraries, museums, and archives who are dedicated to being a diverse and inclusive community, seeking to share ideas and build collaboration
